@@ -1,0 +1,5 @@
+﻿  Task5_fun.cpp
+  Task5_main.cpp
+D:\ООПСЗИ лаб\Crinj\Task5_main\Task5_main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Task5_main.vcxproj -> D:\ООПСЗИ лаб\Crinj\Task1\Debug\Task5_main.exe
